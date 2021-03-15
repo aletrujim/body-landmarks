@@ -16,7 +16,7 @@ Clone this repository:
 git clone https://github.com/aletrujim/body-landmarks.git BodyLandmarks
 ```
 
-## Data adquisition
+## Dataset
 The data used in this analysis were acquired with *BRemNet* (Background Removal Network) from [*body2vec*](https://doi.org/10.3390/jimaging6090094).
 If you use this data or the method for acquiring your own segmented images dataset in your research, please cite this project.
 ```
