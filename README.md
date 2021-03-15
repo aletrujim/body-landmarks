@@ -1,2 +1,2 @@
-# humanbody-landmarks
-Human body landmarks | COCO pose model (2020)
+# body-landmarks
+Human body landmarks | OpenCV (2020)
